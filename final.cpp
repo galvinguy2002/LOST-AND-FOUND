@@ -15,7 +15,7 @@ public:
     {
         cout << "\nEnter the name of the lost item that you have found!\n";
         cin>>item;
-        cout<<"manish is farzi coder\n";
+    
         cout << "\nEnter the colour of the item please.\n";
         cin>>colour;
         cout << "\nEnter the model number of the item please.\n";
