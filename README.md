@@ -10,9 +10,9 @@ Your One time portal to all lost and found things in an automated fashion
 
 
 # OUTPUT
+![image](https://github.com/galvinguy2002/LOST-AND-FOUND/assets/119154626/19d68540-1660-48ee-a725-069fdcc43a21)
 ![image](https://github.com/galvinguy2002/LOST-AND-FOUND/assets/119154626/6460eab6-96e5-453d-bb50-f7aa2965853a)
 ![image](https://github.com/galvinguy2002/LOST-AND-FOUND/assets/119154626/06d00216-663f-4814-af12-cd0d07bb0242)
-![image](https://github.com/galvinguy2002/LOST-AND-FOUND/assets/119154626/19d68540-1660-48ee-a725-069fdcc43a21)
 
 # NOTE
 Username and password are same<br>
